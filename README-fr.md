@@ -14,7 +14,13 @@ Regarder sur GitHub
 
 ## Sommaire
 
-[toc]
+* [Dictionaries](#dictionaries)
+    * [Sommaire](#sommaire)
+    * [Ce que c'est](#ce-que-c'est)
+    * [Comment l'utiliser](#comment-l'utiliser)
+    * [Licence](#licence)
+
+<!-- table of contents created by Adrian Bonnet, see https://Relex12.github.io/Markdown-Table-of-Contents for more -->
 
 ## Ce que c'est
 

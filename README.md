@@ -14,7 +14,13 @@ Checkout on GitHub
 
 ## Summary
 
-[toc]
+* [Dictionaries](#dictionaries)
+    * [Summary](#summary)
+    * [What it is](#what-it-is)
+    * [How to use it](#how-to-use-it)
+    * [License](#license)
+
+<!-- table of contents created by Adrian Bonnet, see https://Relex12.github.io/Markdown-Table-of-Contents for more -->
 
 ## What it is
 
