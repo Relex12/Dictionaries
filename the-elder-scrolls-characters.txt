@@ -1,4 +1,5 @@
 # list of characters from The Elder Scrolls video game series
+
 Addvar
 Adrianne
 Aduri

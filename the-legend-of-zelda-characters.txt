@@ -1,4 +1,5 @@
-# list of characters from every The Legend Of Zelda video game
+# list of characters from every The Legend Of Zelda video game (in French)
+
 agahnim
 anju
 baba
