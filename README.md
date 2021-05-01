@@ -46,4 +46,3 @@ to generate words similar to the names of the Great Old Ones of H.P. Lovecraft's
 ## License
 
 The project is a small one. The code is given to the GitHub Community  for free, only under the MIT License, that is not too restrictive.
-
